@@ -1,2 +1,3 @@
-# MetaArtifacts WL paclet
-Wolfram Language (aka Mathematica) paclet with metaprogramming artifacts.
+# MetaArtifactors WL paclet
+
+Wolfram Language (aka Mathematica) paclet for artifacts creation via metaprogramming.
